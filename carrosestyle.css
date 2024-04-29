@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(245, 244, 244);
+}
+a{
+    text-align: center;
+
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color:bisque;
+    text-align: center;
+    padding: 10px 65px;
+    text-decoration: none;
+    background-color: rgb(41, 67, 121);
+}
+li :hover{
+    color: black;
+}
+img{
+    width: 1306px;
+    height: 500px;
+}
+.contenedor{
+    max-width: 650px;
+    margin: 50px auto;
+    padding: 10px;
+    padding-right: 50px;
+    background-color: beige;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black
+}
+h1{
+    text-align: center;
+    color: rgb(245, 236, 236);
+}
+.campo{
+    margin-bottom: 20px;
+}
+input[type="text"],
+input[type="email"],
+textarea{
+    width: 600px;
+    padding: 10px;
+    border: 1px dotted;
+    border-radius: 5px;
+}
+.boton{
+    text-align: center;
+}
+button{
+    padding: 10px 20px;
+    background-color: blue;
+    color: azure;
+    border-radius: 5px;
+    border: 0px;
+}
+button :hover{
+    background-color: beige;
+}
+p{
+    padding-left: 90px;
+    background-color: rgb(102, 30, 30);
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+

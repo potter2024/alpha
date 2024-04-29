@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(245, 244, 244);
+}
+a{
+    text-align: center;
+
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color:bisque;
+    text-align: center;
+    padding: 10px 67px;
+    text-decoration: none;
+    background-color: rgb(41, 67, 121);
+}
+li :hover{
+    color: black;
+}
+h1{
+    color: rgb(41, 67, 121) ;
+}
+h2{
+    display: block;
+    color:bisque;
+    text-align: center;
+    padding: 10px 67px;
+    text-decoration: none;
+    background-color: rgb(41, 67, 121);
+    text-align: center;
+}
+h3{
+    display: block;
+    color:rgb(235, 234, 240);
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: rgb(108, 157, 230);
+    text-align: center;
+}
+h4{
+    color: rgb(41, 67, 121);
+    text-align: left;
+}

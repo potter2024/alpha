@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+a{
+    text-align: center;
+
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color:bisque;
+    text-align: center;
+    padding: 10px 65px;
+    text-decoration: none;
+    background-color: rgb(41, 67, 121);
+}
+li :hover{
+    color: black;
+}
+img{
+    width: 1306px;
+    height: 500px;
+}
+h1 :hover{
+    color: black;
+    text-align: center;
+}
+h2{
+    color: rgb(8, 10, 10);
+    text-align: left;
+}
+div{
+    display: block;
+    color:bisque;
+    text-align: center;
+    padding: 10px 65px;
+    text-decoration: none;
+    background-color:rgb(41, 67, 121);
+}
